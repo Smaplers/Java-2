@@ -86,7 +86,7 @@ public class test {
 
             }
 
-            student n = new student(2019310630, "全子昂", 'M',a);
+            student n = new student(2019311147, "shw", 'M',a);
 
             System.out.println(n);
 
@@ -166,7 +166,7 @@ public class test {
 
                 }
 
-            student o = new student(2019310630, "全子昂", 'M',a);
+            student o = new student(2019311147, "shw", 'M',a);
 
             System.out.println(o);
 
